@@ -1,0 +1,31 @@
+﻿/*Some of my changes*/
+/*Change the color and thickness of the <hr/> footer line*/
+#footerLine {
+    border-bottom: groove; 
+    border-color: #429fd7;
+}
+/*WeCabCodeIT logo colors*/
+#spanOne {
+    /*We*/
+    color: #d8005c;
+}
+#spanTwo {
+    /*Can*/
+    color: #50B735;
+}
+#spanThree {
+    /*{Code}*/
+    color: #429fd7;
+}
+#spanFour {
+    /*IT*/
+    color: #f15d00;
+}
+
+/*Fix screenshot margins*/
+.features section {
+    padding: 20px 20px;
+}
+.fix {
+    width: 100%;
+}
